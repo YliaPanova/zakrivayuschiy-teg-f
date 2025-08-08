@@ -2,8 +2,8 @@
 :root {
   --font-famyly: "Inter-Variable";
   --font-famyly-accent: "PressStart2P-Regular";
-  --font-weight: 410;
-  --font-weight-title: 715;
+  --font-weight: "wght" 410;
+  --font-weight-title: "wght" 715;
   --background-gradient: repeating-linear-gradient(
       to right,
       #d3d3d3 0 2px,
